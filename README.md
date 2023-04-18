@@ -50,4 +50,37 @@ yazdıran program
 
 24-) Metotlar ile geriye değer döndüren ve parametre alıcak şekilde alan hesabı yapan program
 
-25-) MetotOrnek5Coklu.cs
+25-) Metotlar ile 
+1. İki sayıdan en büyük olanı parametresiz geriye değer döndüren metotşa bulan
+2. Girilen sayının faktöryelini geriye değer döndüren parametreli metotla bulan
+3. Girilen sayının asal olup olmadığını geriye değer döndürmeyen parametreli metotatla bulan
+4. Girilen sayıının mükemmel sayı olup olmadığını parametresiz şekilde geriye değer döndürmeyen metotla bulan
+5. Girilen sayının tek mi çift mi olduğunu geriye değer döndüren parametreli metotla bulan program
+
+26-) Metotlar ile girilen sayının faktöryelini bulan program
+
+27-) Metotlar ile klavyeden alınan sayının fibonaccisini bulan program
+
+28-) Metotlar ile klayvyeden girilen sayıdan 0 kadar olan sayıları toplayan program
+
+29-) Metotlar ile klavyeden alınan üs ve taban bilgisi ile üslü sayının sonucunu yazdıran program
+
+30-) Nesneler ile uçgenin kenar uzunluklarını yazdıran program
+
+31-) Nesneler ile üçgenin kenar uzunluğunun 0 dan küçük bir değer girilirse hata mesajı vericek şekilde yazan program
+
+32-) Nesneler ile kenarlara get-set değeri atayarak üçgen kenarlarını yazdıran program
+
+33-) Nesneler ile kenarları geriye değer döndüren ve üçgenin çevresini yazdıran program
+
+34-) Polimorfizmi çıplak şekilde gösteren program
+
+35-) Polimorfizm ile Araçlar aslı diziye atayarak hepsi için farklı metin yazdıran program
+
+36-) Polimorfizm ile Her Hayvan için farklı ses çıkartan (metin yazdıran) program
+
+37-) Polimorfizm Polimorfizm ile yönetici sınıfındaki depertman karı 500000 büyükse çalışan sınıfındakilere 2000 birim zam yapan program
+
+38-) Polimorfizm ile 3 tane farklı ürünün kdv sini hesaplayıp sepete ekleyince satış fiyatını yazdıran program
+
+Projemi incelediğiniz için teşekkür ederim umarım işinize yarar :)
