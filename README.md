@@ -1,4 +1,4 @@
-# C-Denemelerim
+# C# Denemelerim
 
 1-) Çok boyutlu diziler ile araba firmalarının her marka için 3 aylık satış toplamını buluyoruz, her ay için firmaların toplam satış miktarını,
 markaların en çok satış yaptığı ay,her ay için en çok satışın gerçekleştirilidği markayı bulan markaları yazdıran program.
