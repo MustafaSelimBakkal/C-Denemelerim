@@ -30,6 +30,24 @@ yazdıran program
 
 14-) 13.sorunun 3 tane liste kullanılarak yapılmış hali
 
-15-) Klavyeden girilen harfin sayısal değerini yazdıran program
+15-) Listeler ile Klavyeden girilen harfin sayısal değerini yazdıran program
 
-16-) ListeOrnek5
+16-) Listeler ile klavyeden alınan metindeki özel karakterlerin sayı değerini yazdıran program
+
+17-) Listeler ile klavyeden alınan metindeki bütün karakterlerin sayısal değerini yazdıran program
+
+18-) Listeler ile klavyeden fibonacci dizisi uzunluğu alan ve bunu yazdırıp bide çıkan sonuçtaki çift sayıları yazdıran program
+
+19-) Listeler ile klavyeden 0 girilene kadar sayı alan, bunları yazdıran , pozitif sayıları yazdıran , negatif sayıları yazdıran ve pozitif ve çift sayıları yazdıran program
+
+20-) Listeler ile klavyeden 5 tane sayı alıp bunları asal ve asal olmayanları yazdıran  ve sayıların ortalamasını yazdıran program
+
+21-) Metotlar ile geriye değer döndürmeden parametresiz şekilde alan hesabı yapan program
+
+22-) Metotlar ile geriye değer döndürmeden parametreli şekilde alan hesabı yapan program
+
+23-) Metotlar ile geriye değer döndürerek parametre almayacak şekilde alan hesabı yapan program
+
+24-) Metotlar ile geriye değer döndüren ve parametre alıcak şekilde alan hesabı yapan program
+
+25-) MetotOrnek5Coklu.cs
